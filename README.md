@@ -1,4 +1,4 @@
-# TeaCollection
+# Tea-api
 ----------------
 **Описание**:  Это сервис REST-API разработанный специально для собственной чайной коллекции https://github.com/DIMAKOZHEMYAKA/TeaCollection.
 Обращаться к к сервису можно через /api/teas.
